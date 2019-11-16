@@ -51,6 +51,7 @@ p{
   font-size: 2rem;
   margin-bottom: 1rem;
   line-height: 1;
+
 }
 
 .lead{
@@ -209,7 +210,7 @@ p{
   display: flex;
 }
 
-#contact .map,#contact .contact-form{
+#contact.map,#contact .contact-form{
   flex:1;
 }
 
@@ -224,5 +225,5 @@ p{
 #contact .contact-form input,
 #contact .contact-form textarea{
   width:100%;
-  padding: 0.5rem;
+
 }

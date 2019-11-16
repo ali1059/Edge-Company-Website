@@ -1,0 +1,15 @@
+/* Align Icons to Left */
+#what .items .item{
+    display: flex;
+    text-align: left;
+}
+
+#what .items .item i{
+  margin-right: 1.3rem;
+  align-self: center;
+  padding: 2rem;
+}
+
+#contact .map{
+  flex: 2;
+}
